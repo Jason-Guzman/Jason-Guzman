@@ -2,8 +2,9 @@
 
 ## About me:
 
-- 🎓 4th Year Student at DePaul University studying Computer Science with a concentration in software development.
-- 💻 Passionate for AWS cloud engineering, Site reliability engineering, DevOps
+- 🎓 Studied Computer Science with a concentration in software development at DePaul University.
+- ☁️ Currently working as Cloud Infrastructure Engineer.
+- 💻 Passionate about AWS cloud engineering, Platform engineering, DevOps.
 - ⭐ I enjoy working in AWS. Most of my projects try to implement AWS tools and other infrastructure.
 - 🤝 Willing to collaborate on open-source projects.
 
