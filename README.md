@@ -1,16 +1,15 @@
 ### Hi there! I'm Jason. 👋
 
 ## About me:
-
 - 🎓 Studied Computer Science with a concentration in software development at DePaul University.
-- ☁️ Currently working as Cloud Infrastructure Engineer.
-- 💻 Passionate about AWS cloud engineering, Platform engineering, DevOps.
-- ⭐ I enjoy working in AWS. Most of my projects try to implement AWS tools and other infrastructure.
+- ☁️ Currently working as a **Senior Associate Infrastructure Engineer** on an AWS Cloud Data Engineering team.
+- 💻 Passionate about AWS cloud engineering, platform engineering, and DevOps.
+- 🏅 AWS Certified Solutions Architect – Associate & Terraform Associate (003); currently studying for AWS Developer Associate and SysOps Administrator.
+- ⚙️ I build and maintain automation for AWS infrastructure — IAM, EMR, S3, EFS, Terraform, and Ansible Automation Platform (AAP) — reducing manual toil and hardening production reliability.
 - 🤝 Willing to collaborate on open-source projects.
 
-<br>
-
 ## Skills and Interests ⚙️
+
 >Tools and technologies that I have worked with and am interested in
 
 <table>
@@ -18,6 +17,14 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=aws" alt="icon" width="40" height="40" />
       <br>AWS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=terraform" alt="icon" width="40" height="40" />
+      <br>Terraform
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ansible" alt="icon" width="40" height="40" />
+      <br>Ansible
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=kubernetes" alt="icon" width="40" height="40" />
@@ -35,17 +42,13 @@
         <img src="https://skillicons.dev/icons?i=python" alt="icon" width="40" height="40" />
       <br>Python
     </td>    
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" alt="icon" width="40" height="40" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="40" height="40" />
-      <br>Node
-    </td> 
   </tr>
   <tr>
-      <td align="center" width="96">
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jenkins" alt="icon" width="40" height="40" />
+      <br>Jenkins
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=github" alt="icon" width="40" height="40" />
       <br>Github
     </td>
@@ -54,20 +57,16 @@
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" alt="icon" width="40" height="40" />
-      <br>Postman
-    </td>    
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="40" height="40" />
       <br>Linux
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="40" height="40" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="40" height="40" />
       <br>Mysql
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="40" height="40" />
+      <br>MongoDB
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=nginx" alt="icon" width="40" height="40" />
